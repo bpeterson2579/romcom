@@ -1,13 +1,11 @@
 # RomCom
 
-A boilerplate repo. 
+RomCom is a website that will aid you in creating cheap, original Mass Market Paperback romance novel covers. There is a random function to mash together some elements that we've already included or you can enter your own on a provided form. If there is one you like, you can save it to be compared to other ones that you generate.
 
-## Set Up
-1. ONE teammate: fork this boilerplate repository 
-2. Clone down your new, forked repo
-3. cd into the repository
-4. Open it in your text editor
-5. View the project in the browser by running open index.html in your terminal
-6. Add all project partners and your assigned instructor as collaborators on the repository
+##Requirements
 
-The project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/romcom-pair.html)
+You will need an internet browser to use RomCom
+
+##Installation
+
+The program can be forked/cloned at https://github.com/bpeterson2579/romcom, but you probably knew that since that's probably how you found it :)
